@@ -1,0 +1,5 @@
+1. The top 3 products contribute over 45% of total revenue, indicating a strong concentration of sales in a small number of SKUs.
+
+2. Rock and Latin genres generate the highest revenue among all categories, suggesting that product expansion in these genres could improve profitability.
+
+3. Several customers have never placed an order, representing an opportunity for targeted marketing campaigns and customer reactivation strategies.

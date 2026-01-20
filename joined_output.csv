@@ -1,0 +1,5 @@
+SELECT ...
+INTO OUTFILE 'joined_output.csv'
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n';
